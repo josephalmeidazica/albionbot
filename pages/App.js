@@ -1,6 +1,13 @@
 import React from 'react';
-import {Table, Button} from 'react-bootstrap';
-import TextField from '@material-ui/core/TextField';
+import '../styles/App.module.css';
+import {TextField, Button} from '@material-ui/core';
+import Table from '@material-ui/core/Table';
+import TableBody from '@material-ui/core/TableBody';
+import TableCell from '@material-ui/core/TableCell';
+import TableContainer from '@material-ui/core/TableContainer';
+import TableHead from '@material-ui/core/TableHead';
+import TableRow from '@material-ui/core/TableRow';
+import Paper from '@material-ui/core/Paper';
 import Autocomplete from '@material-ui/lab/Autocomplete';
 const itensJson = require('./itens.json');
 const itens = Array.from(itensJson);
@@ -44,32 +51,30 @@ class  App extends React.Component{
           options={itens}
           getOptionLabel={(option) => option.LocalizedNames['PT-BR']}
           style={{ width: 300 }}
-          renderInput={(params) => <TextField {...params}  label="Combo box" variant="outlined" />}
+          renderInput={(params) => <TextField {...params}  label="Itens" variant="outlined" />}
         />
-          <Button onClick={() => this.getPreco()}>Conferir preço</Button>
-          <Table striped bordered hover>
-  <thead>
+          <Button variant="contained" color="primary" onClick={() => this.getPreco()}>Conferir preço</Button>
+          <Table >
     {(this.state.json.length > 0) &&
-        <tr>
-        <th>Cidade</th>
-        <th>Compra (MIN - MAX)</th>
-        <th>Venda (MIN - MAX)</th>
-      </tr>
-    }
-
-    </thead>
-    <tbody>
-
-    {this.state.json.map((item) =>{
-        return(
-          <tr>
-          <td>{item.city}</td>
-          <td>{item.sell_price_min} - {item.sell_price_max}</td>
-          <td>{item.buy_price_min} - {item.buy_price_max}</td>
-          </tr>
-        );
-      })}
-          </tbody>
+    <TableHead>
+          <TableRow>
+            <TableCell>Cidade</TableCell>
+            <TableCell align="right">Compra </TableCell>
+            <TableCell align="right">Venda</TableCell>
+          </TableRow>
+        </TableHead>
+  }
+          <TableBody>
+          {this.state.json.map((item) => (
+            <TableRow key={item.city}>
+              <TableCell component="th" scope="row">
+                {item.city}
+              </TableCell>
+              <TableCell align="right">{item.buy_price_min} - {item.buy_price_max}</TableCell>
+              <TableCell align="right">{item.sell_price_min} - {item.sell_price_max}</TableCell>
+            </TableRow>
+          ))}
+        </TableBody>
           </Table>
         </header>
       </div>
