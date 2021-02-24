@@ -1,0 +1,1874 @@
+[
+    {
+       "LocalizationNameVariable":"@ITEMS_T1_WOOD",
+       "LocalizedNames":{
+          "EN-US":"Rough Logs",
+          "PT-BR":"Troncos Brutos"
+       },
+       "Index":"679",
+       "UniqueName":"T1_WOOD"
+    },
+    {
+       "LocalizationNameVariable":"@ITEMS_T2_WOOD",
+       "LocalizedNames":{
+          "EN-US":"Birch Logs",
+          "PT-BR":"Troncos de Bétula"
+       },
+       "Index":"680",
+       "UniqueName":"T2_WOOD"
+    },
+    {
+       "LocalizationNameVariable":"@ITEMS_T3_WOOD",
+       "LocalizedNames":{
+          "EN-US":"Chestnut Logs",
+          "PT-BR":"Troncos de Castanheira"
+       },
+       "Index":"681",
+       "UniqueName":"T3_WOOD"
+    },
+    {
+       "LocalizationNameVariable":"@ITEMS_T4_WOOD",
+       "LocalizedNames":{
+          "EN-US":"Pine Logs",
+          "PT-BR":"Troncos de Pinho"
+       },
+       "Index":"682",
+       "UniqueName":"T4_WOOD"
+    },
+    {
+       "LocalizationNameVariable":"@ITEMS_T5_WOOD",
+       "LocalizedNames":{
+          "EN-US":"Cedar Logs",
+          "PT-BR":"Troncos de Cedro"
+       },
+       "Index":"683",
+       "UniqueName":"T5_WOOD"
+    },
+    {
+       "LocalizationNameVariable":"@ITEMS_T6_WOOD",
+       "LocalizedNames":{
+          "EN-US":"Bloodoak Logs",
+          "PT-BR":"Troncos de Carvalho-sangue"
+       },
+       "Index":"684",
+       "UniqueName":"T6_WOOD"
+    },
+    {
+       "LocalizationNameVariable":"@ITEMS_T7_WOOD",
+       "LocalizedNames":{
+          "EN-US":"Ashenbark Logs",
+          "PT-BR":"Troncos de Freixo"
+       },
+       "Index":"685",
+       "UniqueName":"T7_WOOD"
+    },
+    {
+       "LocalizationNameVariable":"@ITEMS_T8_WOOD",
+       "LocalizedNames":{
+          "EN-US":"Whitewood Logs",
+          "PT-BR":"Troncos de Pau-branco"
+       },
+       "Index":"686",
+       "UniqueName":"T8_WOOD"
+    },
+    {
+       "LocalizationNameVariable":"@ITEMS_T4_WOOD_LEVEL1",
+       "LocalizedNames":{
+          "EN-US":"Uncommon Pine Logs",
+          "PT-BR":"Troncos de Pinho Incomuns"
+       },
+       "Index":"687",
+       "UniqueName":"T4_WOOD_LEVEL1@1"
+    },
+    {
+       "LocalizationNameVariable":"@ITEMS_T5_WOOD_LEVEL1",
+       "LocalizedNames":{
+          "EN-US":"Uncommon Cedar Logs",
+          "PT-BR":"Troncos de Cedro Incomuns"
+       },
+       "Index":"688",
+       "UniqueName":"T5_WOOD_LEVEL1@1"
+    },
+    {
+       "LocalizationNameVariable":"@ITEMS_T6_WOOD_LEVEL1",
+       "LocalizedNames":{
+          "EN-US":"Uncommon Bloodoak Logs",
+          "PT-BR":"Troncos de Carvalho-sangue Incomuns"
+       },
+       "Index":"689",
+       "UniqueName":"T6_WOOD_LEVEL1@1"
+    },
+    {
+       "LocalizationNameVariable":"@ITEMS_T7_WOOD_LEVEL1",
+       "LocalizedNames":{
+          "EN-US":"Uncommon Ashenbark Logs",
+          "PT-BR":"Troncos de Freixo Incomuns"
+       },
+       "Index":"690",
+       "UniqueName":"T7_WOOD_LEVEL1@1"
+    },
+    {
+       "LocalizationNameVariable":"@ITEMS_T8_WOOD_LEVEL1",
+       "LocalizedNames":{
+          "EN-US":"Uncommon Whitewood Logs",
+          "PT-BR":"Troncos de Pau-branco Incomuns"
+       },
+       "Index":"691",
+       "UniqueName":"T8_WOOD_LEVEL1@1"
+    },
+    {
+       "LocalizationNameVariable":"@ITEMS_T4_WOOD_LEVEL2",
+       "LocalizedNames":{
+          "EN-US":"Rare Pine Logs",
+          "PT-BR":"Troncos de Pinho Raros"
+       },
+       "Index":"692",
+       "UniqueName":"T4_WOOD_LEVEL2@2"
+    },
+    {
+       "LocalizationNameVariable":"@ITEMS_T5_WOOD_LEVEL2",
+       "LocalizedNames":{
+          "EN-US":"Rare Cedar Logs",
+          "PT-BR":"Troncos de Cedro Raros"
+       },
+       "Index":"693",
+       "UniqueName":"T5_WOOD_LEVEL2@2"
+    },
+    {
+       "LocalizationNameVariable":"@ITEMS_T6_WOOD_LEVEL2",
+       "LocalizedNames":{
+          "EN-US":"Rare Bloodoak Logs",
+          "PT-BR":"Troncos de Carvalho-sangue Raros"
+       },
+       "Index":"694",
+       "UniqueName":"T6_WOOD_LEVEL2@2"
+    },
+    {
+       "LocalizationNameVariable":"@ITEMS_T7_WOOD_LEVEL2",
+       "LocalizedNames":{
+          "EN-US":"Rare Ashenbark Logs",
+          "PT-BR":"Troncos de Freixo Raros"
+       },
+       "Index":"695",
+       "UniqueName":"T7_WOOD_LEVEL2@2"
+    },
+    {
+       "LocalizationNameVariable":"@ITEMS_T8_WOOD_LEVEL2",
+       "LocalizedNames":{
+          "EN-US":"Rare Whitewood Logs",
+          "PT-BR":"Troncos de Pau-branco Raros"
+       },
+       "Index":"696",
+       "UniqueName":"T8_WOOD_LEVEL2@2"
+    },
+    {
+       "LocalizationNameVariable":"@ITEMS_T4_WOOD_LEVEL3",
+       "LocalizedNames":{
+          "EN-US":"Exceptional Pine Logs",
+          "PT-BR":"Troncos de Pinho Excepcionais"
+       },
+       "Index":"697",
+       "UniqueName":"T4_WOOD_LEVEL3@3"
+    },
+    {
+       "LocalizationNameVariable":"@ITEMS_T5_WOOD_LEVEL3",
+       "LocalizedNames":{
+          "EN-US":"Exceptional Cedar Logs",
+          "PT-BR":"Troncos de Cedro Excepcionais"
+       },
+       "Index":"698",
+       "UniqueName":"T5_WOOD_LEVEL3@3"
+    },
+    {
+       "LocalizationNameVariable":"@ITEMS_T6_WOOD_LEVEL3",
+       "LocalizedNames":{
+          "EN-US":"Exceptional Bloodoak Logs",
+          "PT-BR":"Troncos de Carvalho-sangue Excepcionais"
+       },
+       "Index":"699",
+       "UniqueName":"T6_WOOD_LEVEL3@3"
+    },
+    {
+       "LocalizationNameVariable":"@ITEMS_T7_WOOD_LEVEL3",
+       "LocalizedNames":{
+          "EN-US":"Exceptional Ashenbark Logs",
+          "PT-BR":"Troncos de Freixo Excepcionais"
+       },
+       "Index":"700",
+       "UniqueName":"T7_WOOD_LEVEL3@3"
+    },
+    {
+       "LocalizationNameVariable":"@ITEMS_T8_WOOD_LEVEL3",
+       "LocalizedNames":{
+          "EN-US":"Exceptional Whitewood Logs",
+          "PT-BR":"Troncos de Pau-branco Excepcionais"
+       },
+       "Index":"701",
+       "UniqueName":"T8_WOOD_LEVEL3@3"
+    },
+    {
+       "LocalizationNameVariable":"@ITEMS_T1_ROCK",
+       "LocalizedNames":{
+          "EN-US":"Rough Stone",
+          "PT-BR":"Pedra Bruta"
+       },
+       "Index":"702",
+       "UniqueName":"T1_ROCK"
+    },
+    {
+       "LocalizationNameVariable":"@ITEMS_T2_ROCK",
+       "LocalizedNames":{
+          "EN-US":"Limestone",
+          "PT-BR":"Calcário"
+       },
+       "Index":"703",
+       "UniqueName":"T2_ROCK"
+    },
+    {
+       "LocalizationNameVariable":"@ITEMS_T3_ROCK",
+       "LocalizedNames":{
+          "EN-US":"Sandstone",
+          "PT-BR":"Arenito"
+       },
+       "Index":"704",
+       "UniqueName":"T3_ROCK"
+    },
+    {
+       "LocalizationNameVariable":"@ITEMS_T4_ROCK",
+       "LocalizedNames":{
+          "EN-US":"Travertine",
+          "PT-BR":"Travertino"
+       },
+       "Index":"705",
+       "UniqueName":"T4_ROCK"
+    },
+    {
+       "LocalizationNameVariable":"@ITEMS_T5_ROCK",
+       "LocalizedNames":{
+          "EN-US":"Granite",
+          "PT-BR":"Granito"
+       },
+       "Index":"706",
+       "UniqueName":"T5_ROCK"
+    },
+    {
+       "LocalizationNameVariable":"@ITEMS_T6_ROCK",
+       "LocalizedNames":{
+          "EN-US":"Slate",
+          "PT-BR":"Ardósia"
+       },
+       "Index":"707",
+       "UniqueName":"T6_ROCK"
+    },
+    {
+       "LocalizationNameVariable":"@ITEMS_T7_ROCK",
+       "LocalizedNames":{
+          "EN-US":"Basalt",
+          "PT-BR":"Basalto"
+       },
+       "Index":"708",
+       "UniqueName":"T7_ROCK"
+    },
+    {
+       "LocalizationNameVariable":"@ITEMS_T8_ROCK",
+       "LocalizedNames":{
+          "EN-US":"Marble",
+          "PT-BR":"Mármore"
+       },
+       "Index":"709",
+       "UniqueName":"T8_ROCK"
+    },
+    {
+       "LocalizationNameVariable":"@ITEMS_T4_ROCK_LEVEL1",
+       "LocalizedNames":{
+          "EN-US":"Uncommon Travertine",
+          "PT-BR":"Travertino Incomum"
+       },
+       "Index":"710",
+       "UniqueName":"T4_ROCK_LEVEL1@1"
+    },
+    {
+       "LocalizationNameVariable":"@ITEMS_T5_ROCK_LEVEL1",
+       "LocalizedNames":{
+          "EN-US":"Uncommon Granite",
+          "PT-BR":"Granito Incomum"
+       },
+       "Index":"711",
+       "UniqueName":"T5_ROCK_LEVEL1@1"
+    },
+    {
+       "LocalizationNameVariable":"@ITEMS_T6_ROCK_LEVEL1",
+       "LocalizedNames":{
+          "EN-US":"Uncommon Slate",
+          "PT-BR":"Ardósia Incomum"
+       },
+       "Index":"712",
+       "UniqueName":"T6_ROCK_LEVEL1@1"
+    },
+    {
+       "LocalizationNameVariable":"@ITEMS_T7_ROCK_LEVEL1",
+       "LocalizedNames":{
+          "EN-US":"Uncommon Basalt",
+          "PT-BR":"Basalto Incomum"
+       },
+       "Index":"713",
+       "UniqueName":"T7_ROCK_LEVEL1@1"
+    },
+    {
+       "LocalizationNameVariable":"@ITEMS_T8_ROCK_LEVEL1",
+       "LocalizedNames":{
+          "EN-US":"Uncommon Marble",
+          "PT-BR":"Mármore Incomum"
+       },
+       "Index":"714",
+       "UniqueName":"T8_ROCK_LEVEL1@1"
+    },
+    {
+       "LocalizationNameVariable":"@ITEMS_T4_ROCK_LEVEL2",
+       "LocalizedNames":{
+          "EN-US":"Rare Travertine",
+          "PT-BR":"Travertino Raro"
+       },
+       "Index":"715",
+       "UniqueName":"T4_ROCK_LEVEL2@2"
+    },
+    {
+       "LocalizationNameVariable":"@ITEMS_T5_ROCK_LEVEL2",
+       "LocalizedNames":{
+          "EN-US":"Rare Granite",
+          "PT-BR":"Granito Raro"
+       },
+       "Index":"716",
+       "UniqueName":"T5_ROCK_LEVEL2@2"
+    },
+    {
+       "LocalizationNameVariable":"@ITEMS_T6_ROCK_LEVEL2",
+       "LocalizedNames":{
+          "EN-US":"Rare Slate",
+          "PT-BR":"Ardósia Rara"
+       },
+       "Index":"717",
+       "UniqueName":"T6_ROCK_LEVEL2@2"
+    },
+    {
+       "LocalizationNameVariable":"@ITEMS_T7_ROCK_LEVEL2",
+       "LocalizedNames":{
+          "EN-US":"Rare Basalt",
+          "PT-BR":"Basalto Raro"
+       },
+       "Index":"718",
+       "UniqueName":"T7_ROCK_LEVEL2@2"
+    },
+    {
+       "LocalizationNameVariable":"@ITEMS_T8_ROCK_LEVEL2",
+       "LocalizedNames":{
+          "EN-US":"Rare Marble",
+          "PT-BR":"Mármore Raro"
+       },
+       "Index":"719",
+       "UniqueName":"T8_ROCK_LEVEL2@2"
+    },
+    {
+       "LocalizationNameVariable":"@ITEMS_T4_ROCK_LEVEL3",
+       "LocalizedNames":{
+          "EN-US":"Exceptional Travertine",
+          "PT-BR":"Travertino Excepcional"
+       },
+       "Index":"720",
+       "UniqueName":"T4_ROCK_LEVEL3@3"
+    },
+    {
+       "LocalizationNameVariable":"@ITEMS_T5_ROCK_LEVEL3",
+       "LocalizedNames":{
+          "EN-US":"Exceptional Granite",
+          "PT-BR":"Granito Excepcional"
+       },
+       "Index":"721",
+       "UniqueName":"T5_ROCK_LEVEL3@3"
+    },
+    {
+       "LocalizationNameVariable":"@ITEMS_T6_ROCK_LEVEL3",
+       "LocalizedNames":{
+          "EN-US":"Exceptional Slate",
+          "PT-BR":"Ardósia Excepcional"
+       },
+       "Index":"722",
+       "UniqueName":"T6_ROCK_LEVEL3@3"
+    },
+    {
+       "LocalizationNameVariable":"@ITEMS_T7_ROCK_LEVEL3",
+       "LocalizedNames":{
+          "EN-US":"Exceptional Basalt",
+          "PT-BR":"Basalto Excepcional"
+       },
+       "Index":"723",
+       "UniqueName":"T7_ROCK_LEVEL3@3"
+    },
+    {
+       "LocalizationNameVariable":"@ITEMS_T8_ROCK_LEVEL3",
+       "LocalizedNames":{
+          "EN-US":"Exceptional Marble",
+          "PT-BR":"Mármore Excepcional"
+       },
+       "Index":"724",
+       "UniqueName":"T8_ROCK_LEVEL3@3"
+    },
+    {
+       "LocalizationNameVariable":"@ITEMS_T2_ORE",
+       "LocalizedNames":{
+          "EN-US":"Copper Ore",
+          "PT-BR":"Minério de Cobre"
+       },
+       "Index":"725",
+       "UniqueName":"T2_ORE"
+    },
+    {
+       "LocalizationNameVariable":"@ITEMS_T3_ORE",
+       "LocalizedNames":{
+          "EN-US":"Tin Ore",
+          "PT-BR":"Minério de Estanho"
+       },
+       "Index":"726",
+       "UniqueName":"T3_ORE"
+    },
+    {
+       "LocalizationNameVariable":"@ITEMS_T4_ORE",
+       "LocalizedNames":{
+          "EN-US":"Iron Ore",
+          "PT-BR":"Minério de Ferro"
+       },
+       "Index":"727",
+       "UniqueName":"T4_ORE"
+    },
+    {
+       "LocalizationNameVariable":"@ITEMS_T5_ORE",
+       "LocalizedNames":{
+          "EN-US":"Titanium Ore",
+          "PT-BR":"Minério de Titânio"
+       },
+       "Index":"728",
+       "UniqueName":"T5_ORE"
+    },
+    {
+       "LocalizationNameVariable":"@ITEMS_T6_ORE",
+       "LocalizedNames":{
+          "EN-US":"Runite Ore",
+          "PT-BR":"Minério de Runita"
+       },
+       "Index":"729",
+       "UniqueName":"T6_ORE"
+    },
+    {
+       "LocalizationNameVariable":"@ITEMS_T7_ORE",
+       "LocalizedNames":{
+          "EN-US":"Meteorite Ore",
+          "PT-BR":"Minério de Meteorito"
+       },
+       "Index":"730",
+       "UniqueName":"T7_ORE"
+    },
+    {
+       "LocalizationNameVariable":"@ITEMS_T8_ORE",
+       "LocalizedNames":{
+          "EN-US":"Adamantium Ore",
+          "PT-BR":"Minério de Adamântio"
+       },
+       "Index":"731",
+       "UniqueName":"T8_ORE"
+    },
+    {
+       "LocalizationNameVariable":"@ITEMS_T4_ORE_LEVEL1",
+       "LocalizedNames":{
+          "EN-US":"Uncommon Iron Ore",
+          "PT-BR":"Minério de Ferro Incomum"
+       },
+       "Index":"732",
+       "UniqueName":"T4_ORE_LEVEL1@1"
+    },
+    {
+       "LocalizationNameVariable":"@ITEMS_T5_ORE_LEVEL1",
+       "LocalizedNames":{
+          "EN-US":"Uncommon Titanium Ore",
+          "PT-BR":"Minério de Titânio Incomum"
+       },
+       "Index":"733",
+       "UniqueName":"T5_ORE_LEVEL1@1"
+    },
+    {
+       "LocalizationNameVariable":"@ITEMS_T6_ORE_LEVEL1",
+       "LocalizedNames":{
+          "EN-US":"Uncommon Runite Ore",
+          "PT-BR":"Minério de Runita Incomum"
+       },
+       "Index":"734",
+       "UniqueName":"T6_ORE_LEVEL1@1"
+    },
+    {
+       "LocalizationNameVariable":"@ITEMS_T7_ORE_LEVEL1",
+       "LocalizedNames":{
+          "EN-US":"Uncommon Meteorite Ore",
+          "PT-BR":"Minério de Meteorito Incomum"
+       },
+       "Index":"735",
+       "UniqueName":"T7_ORE_LEVEL1@1"
+    },
+    {
+       "LocalizationNameVariable":"@ITEMS_T8_ORE_LEVEL1",
+       "LocalizedNames":{
+          "EN-US":"Uncommon Adamantium Ore",
+          "PT-BR":"Minério de Adamântio Incomum"
+       },
+       "Index":"736",
+       "UniqueName":"T8_ORE_LEVEL1@1"
+    },
+    {
+       "LocalizationNameVariable":"@ITEMS_T4_ORE_LEVEL2",
+       "LocalizedNames":{
+          "EN-US":"Rare Iron Ore",
+          "PT-BR":"Minério de Ferro Raro"
+       },
+       "Index":"737",
+       "UniqueName":"T4_ORE_LEVEL2@2"
+    },
+    {
+       "LocalizationNameVariable":"@ITEMS_T5_ORE_LEVEL2",
+       "LocalizedNames":{
+          "EN-US":"Rare Titanium Ore",
+          "PT-BR":"Minério de Titânio Raro"
+       },
+       "Index":"738",
+       "UniqueName":"T5_ORE_LEVEL2@2"
+    },
+    {
+       "LocalizationNameVariable":"@ITEMS_T6_ORE_LEVEL2",
+       "LocalizedNames":{
+          "EN-US":"Rare Runite Ore",
+          "PT-BR":"Minério de Runita Raro"
+       },
+       "Index":"739",
+       "UniqueName":"T6_ORE_LEVEL2@2"
+    },
+    {
+       "LocalizationNameVariable":"@ITEMS_T7_ORE_LEVEL2",
+       "LocalizedNames":{
+          "EN-US":"Rare Meteorite Ore",
+          "PT-BR":"Minério de Meteorito Raro"
+       },
+       "Index":"740",
+       "UniqueName":"T7_ORE_LEVEL2@2"
+    },
+    {
+       "LocalizationNameVariable":"@ITEMS_T8_ORE_LEVEL2",
+       "LocalizedNames":{
+          "EN-US":"Rare Adamantium Ore",
+          "PT-BR":"Minério de Adamântio Raro"
+       },
+       "Index":"741",
+       "UniqueName":"T8_ORE_LEVEL2@2"
+    },
+    {
+       "LocalizationNameVariable":"@ITEMS_T4_ORE_LEVEL3",
+       "LocalizedNames":{
+          "EN-US":"Exceptional Iron Ore",
+          "PT-BR":"Minério de Ferro Excepcional"
+       },
+       "Index":"742",
+       "UniqueName":"T4_ORE_LEVEL3@3"
+    },
+    {
+       "LocalizationNameVariable":"@ITEMS_T5_ORE_LEVEL3",
+       "LocalizedNames":{
+          "EN-US":"Exceptional Titanium Ore",
+          "PT-BR":"Minério de Titânio Excepcional"
+       },
+       "Index":"743",
+       "UniqueName":"T5_ORE_LEVEL3@3"
+    },
+    {
+       "LocalizationNameVariable":"@ITEMS_T6_ORE_LEVEL3",
+       "LocalizedNames":{
+          "EN-US":"Exceptional Runite Ore",
+          "PT-BR":"Minério de Runita Excepcional"
+       },
+       "Index":"744",
+       "UniqueName":"T6_ORE_LEVEL3@3"
+    },
+    {
+       "LocalizationNameVariable":"@ITEMS_T7_ORE_LEVEL3",
+       "LocalizedNames":{
+          "EN-US":"Exceptional Meteorite Ore",
+          "PT-BR":"Minério de Meteorito Excepcional"
+       },
+       "Index":"745",
+       "UniqueName":"T7_ORE_LEVEL3@3"
+    },
+    {
+       "LocalizationNameVariable":"@ITEMS_T8_ORE_LEVEL3",
+       "LocalizedNames":{
+          "EN-US":"Exceptional Adamantium Ore",
+          "PT-BR":"Minério de Adamântio Excepcional"
+       },
+       "Index":"746",
+       "UniqueName":"T8_ORE_LEVEL3@3"
+    },
+    {
+       "LocalizationNameVariable":"@ITEMS_T1_HIDE",
+       "LocalizedNames":{
+          "EN-US":"Scraps of Hide",
+          "PT-BR":"Pelego Roto"
+       },
+       "Index":"747",
+       "UniqueName":"T1_HIDE"
+    },
+    {
+       "LocalizationNameVariable":"@ITEMS_T2_HIDE",
+       "LocalizedNames":{
+          "EN-US":"Rugged Hide",
+          "PT-BR":"Pelego Rústico"
+       },
+       "Index":"748",
+       "UniqueName":"T2_HIDE"
+    },
+    {
+       "LocalizationNameVariable":"@ITEMS_T3_HIDE",
+       "LocalizedNames":{
+          "EN-US":"Thin Hide",
+          "PT-BR":"Pelego Fino"
+       },
+       "Index":"749",
+       "UniqueName":"T3_HIDE"
+    },
+    {
+       "LocalizationNameVariable":"@ITEMS_T4_HIDE",
+       "LocalizedNames":{
+          "EN-US":"Medium Hide",
+          "PT-BR":"Pelego Médio"
+       },
+       "Index":"750",
+       "UniqueName":"T4_HIDE"
+    },
+    {
+       "LocalizationNameVariable":"@ITEMS_T5_HIDE",
+       "LocalizedNames":{
+          "EN-US":"Heavy Hide",
+          "PT-BR":"Pelego Pesado"
+       },
+       "Index":"751",
+       "UniqueName":"T5_HIDE"
+    },
+    {
+       "LocalizationNameVariable":"@ITEMS_T6_HIDE",
+       "LocalizedNames":{
+          "EN-US":"Robust Hide",
+          "PT-BR":"Pelego Robusto"
+       },
+       "Index":"752",
+       "UniqueName":"T6_HIDE"
+    },
+    {
+       "LocalizationNameVariable":"@ITEMS_T7_HIDE",
+       "LocalizedNames":{
+          "EN-US":"Thick Hide",
+          "PT-BR":"Pelego Grosso"
+       },
+       "Index":"753",
+       "UniqueName":"T7_HIDE"
+    },
+    {
+       "LocalizationNameVariable":"@ITEMS_T8_HIDE",
+       "LocalizedNames":{
+          "EN-US":"Resilient Hide",
+          "PT-BR":"Pelego Resistente"
+       },
+       "Index":"754",
+       "UniqueName":"T8_HIDE"
+    },
+    {
+       "LocalizationNameVariable":"@ITEMS_T4_HIDE_LEVEL1",
+       "LocalizedNames":{
+          "EN-US":"Uncommon Medium Hide",
+          "PT-BR":"Pelego Médio Incomum"
+       },
+       "Index":"755",
+       "UniqueName":"T4_HIDE_LEVEL1@1"
+    },
+    {
+       "LocalizationNameVariable":"@ITEMS_T5_HIDE_LEVEL1",
+       "LocalizedNames":{
+          "EN-US":"Uncommon Heavy Hide",
+          "PT-BR":"Pelego Pesado Incomum"
+       },
+       "Index":"756",
+       "UniqueName":"T5_HIDE_LEVEL1@1"
+    },
+    {
+       "LocalizationNameVariable":"@ITEMS_T6_HIDE_LEVEL1",
+       "LocalizedNames":{
+          "EN-US":"Uncommon Robust Hide",
+          "PT-BR":"Pelego Robusto Incomum"
+       },
+       "Index":"757",
+       "UniqueName":"T6_HIDE_LEVEL1@1"
+    },
+    {
+       "LocalizationNameVariable":"@ITEMS_T7_HIDE_LEVEL1",
+       "LocalizedNames":{
+          "EN-US":"Uncommon Thick Hide",
+          "PT-BR":"Pelego Grosso Incomum"
+       },
+       "Index":"758",
+       "UniqueName":"T7_HIDE_LEVEL1@1"
+    },
+    {
+       "LocalizationNameVariable":"@ITEMS_T8_HIDE_LEVEL1",
+       "LocalizedNames":{
+          "EN-US":"Uncommon Resilient Hide",
+          "PT-BR":"Pelego Resistente Incomum"
+       },
+       "Index":"759",
+       "UniqueName":"T8_HIDE_LEVEL1@1"
+    },
+    {
+       "LocalizationNameVariable":"@ITEMS_T4_HIDE_LEVEL2",
+       "LocalizedNames":{
+          "EN-US":"Rare Medium Hide",
+          "PT-BR":"Pelego Médio Raro"
+       },
+       "Index":"760",
+       "UniqueName":"T4_HIDE_LEVEL2@2"
+    },
+    {
+       "LocalizationNameVariable":"@ITEMS_T5_HIDE_LEVEL2",
+       "LocalizedNames":{
+          "EN-US":"Rare Heavy Hide",
+          "PT-BR":"Pelego Pesado Raro"
+       },
+       "Index":"761",
+       "UniqueName":"T5_HIDE_LEVEL2@2"
+    },
+    {
+       "LocalizationNameVariable":"@ITEMS_T6_HIDE_LEVEL2",
+       "LocalizedNames":{
+          "EN-US":"Rare Robust Hide",
+          "PT-BR":"Pelego Robusto Raro"
+       },
+       "Index":"762",
+       "UniqueName":"T6_HIDE_LEVEL2@2"
+    },
+    {
+       "LocalizationNameVariable":"@ITEMS_T7_HIDE_LEVEL2",
+       "LocalizedNames":{
+          "EN-US":"Rare Thick Hide",
+          "PT-BR":"Pelego Grosso Raro"
+       },
+       "Index":"763",
+       "UniqueName":"T7_HIDE_LEVEL2@2"
+    },
+    {
+       "LocalizationNameVariable":"@ITEMS_T8_HIDE_LEVEL2",
+       "LocalizedNames":{
+          "EN-US":"Rare Resilient Hide",
+          "PT-BR":"Pelego Resistente Raro"
+       },
+       "Index":"764",
+       "UniqueName":"T8_HIDE_LEVEL2@2"
+    },
+    {
+       "LocalizationNameVariable":"@ITEMS_T4_HIDE_LEVEL3",
+       "LocalizedNames":{
+          "EN-US":"Exceptional Medium Hide",
+          "PT-BR":"Pelego Médio Excepcional"
+       },
+       "Index":"765",
+       "UniqueName":"T4_HIDE_LEVEL3@3"
+    },
+    {
+       "LocalizationNameVariable":"@ITEMS_T5_HIDE_LEVEL3",
+       "LocalizedNames":{
+          "EN-US":"Exceptional Heavy Hide",
+          "PT-BR":"Pelego Pesado Excepcional"
+       },
+       "Index":"766",
+       "UniqueName":"T5_HIDE_LEVEL3@3"
+    },
+    {
+       "LocalizationNameVariable":"@ITEMS_T6_HIDE_LEVEL3",
+       "LocalizedNames":{
+          "EN-US":"Exceptional Robust Hide",
+          "PT-BR":"Pelego Robusto Excepcional"
+       },
+       "Index":"767",
+       "UniqueName":"T6_HIDE_LEVEL3@3"
+    },
+    {
+       "LocalizationNameVariable":"@ITEMS_T7_HIDE_LEVEL3",
+       "LocalizedNames":{
+          "EN-US":"Exceptional Thick Hide",
+          "PT-BR":"Pelego Grosso Excepcional"
+       },
+       "Index":"768",
+       "UniqueName":"T7_HIDE_LEVEL3@3"
+    },
+    {
+       "LocalizationNameVariable":"@ITEMS_T8_HIDE_LEVEL3",
+       "LocalizedNames":{
+          "EN-US":"Exceptional Resilient Hide",
+          "PT-BR":"Pelego Resistente Excepcional"
+       },
+       "Index":"769",
+       "UniqueName":"T8_HIDE_LEVEL3@3"
+    },
+    {
+       "LocalizationNameVariable":"@ITEMS_T2_FIBER",
+       "LocalizedNames":{
+          "EN-US":"Cotton",
+          "PT-BR":"Algodão"
+       },
+       "Index":"770",
+       "UniqueName":"T2_FIBER"
+    },
+    {
+       "LocalizationNameVariable":"@ITEMS_T3_FIBER",
+       "LocalizedNames":{
+          "EN-US":"Flax",
+          "PT-BR":"Linho"
+       },
+       "Index":"771",
+       "UniqueName":"T3_FIBER"
+    },
+    {
+       "LocalizationNameVariable":"@ITEMS_T4_FIBER",
+       "LocalizedNames":{
+          "EN-US":"Hemp",
+          "PT-BR":"Cânhamo"
+       },
+       "Index":"772",
+       "UniqueName":"T4_FIBER"
+    },
+    {
+       "LocalizationNameVariable":"@ITEMS_T5_FIBER",
+       "LocalizedNames":{
+          "EN-US":"Skyflower",
+          "PT-BR":"Verbena"
+       },
+       "Index":"773",
+       "UniqueName":"T5_FIBER"
+    },
+    {
+       "LocalizationNameVariable":"@ITEMS_T6_FIBER",
+       "LocalizedNames":{
+          "EN-US":"Redleaf Cotton",
+          "PT-BR":"Algodão-vermelho"
+       },
+       "Index":"774",
+       "UniqueName":"T6_FIBER"
+    },
+    {
+       "LocalizationNameVariable":"@ITEMS_T7_FIBER",
+       "LocalizedNames":{
+          "EN-US":"Sunflax",
+          "PT-BR":"Linhossol"
+       },
+       "Index":"775",
+       "UniqueName":"T7_FIBER"
+    },
+    {
+       "LocalizationNameVariable":"@ITEMS_T8_FIBER",
+       "LocalizedNames":{
+          "EN-US":"Ghost Hemp",
+          "PT-BR":"Cânhamo-fantasma"
+       },
+       "Index":"776",
+       "UniqueName":"T8_FIBER"
+    },
+    {
+       "LocalizationNameVariable":"@ITEMS_T4_FIBER_LEVEL1",
+       "LocalizedNames":{
+          "EN-US":"Uncommon Hemp",
+          "PT-BR":"Cânhamo Incomum"
+       },
+       "Index":"777",
+       "UniqueName":"T4_FIBER_LEVEL1@1"
+    },
+    {
+       "LocalizationNameVariable":"@ITEMS_T5_FIBER_LEVEL1",
+       "LocalizedNames":{
+          "EN-US":"Uncommon Skyflower",
+          "PT-BR":"Verbena Incomum"
+       },
+       "Index":"778",
+       "UniqueName":"T5_FIBER_LEVEL1@1"
+    },
+    {
+       "LocalizationNameVariable":"@ITEMS_T6_FIBER_LEVEL1",
+       "LocalizedNames":{
+          "EN-US":"Uncommon Redleaf Cotton",
+          "PT-BR":"Algodão-vermelho Incomum"
+       },
+       "Index":"779",
+       "UniqueName":"T6_FIBER_LEVEL1@1"
+    },
+    {
+       "LocalizationNameVariable":"@ITEMS_T7_FIBER_LEVEL1",
+       "LocalizedNames":{
+          "EN-US":"Uncommon Sunflax",
+          "PT-BR":"Linhossol Incomum"
+       },
+       "Index":"780",
+       "UniqueName":"T7_FIBER_LEVEL1@1"
+    },
+    {
+       "LocalizationNameVariable":"@ITEMS_T8_FIBER_LEVEL1",
+       "LocalizedNames":{
+          "EN-US":"Uncommon Ghost Hemp",
+          "PT-BR":"Cânhamo-fantasma Incomum"
+       },
+       "Index":"781",
+       "UniqueName":"T8_FIBER_LEVEL1@1"
+    },
+    {
+       "LocalizationNameVariable":"@ITEMS_T4_FIBER_LEVEL2",
+       "LocalizedNames":{
+          "EN-US":"Rare Hemp",
+          "PT-BR":"Cânhamo Raro"
+       },
+       "Index":"782",
+       "UniqueName":"T4_FIBER_LEVEL2@2"
+    },
+    {
+       "LocalizationNameVariable":"@ITEMS_T5_FIBER_LEVEL2",
+       "LocalizedNames":{
+          "EN-US":"Rare Skyflower",
+          "PT-BR":"Verbena Rara"
+       },
+       "Index":"783",
+       "UniqueName":"T5_FIBER_LEVEL2@2"
+    },
+    {
+       "LocalizationNameVariable":"@ITEMS_T6_FIBER_LEVEL2",
+       "LocalizedNames":{
+          "EN-US":"Rare Redleaf Cotton",
+          "PT-BR":"Algodão-vermelho Raro"
+       },
+       "Index":"784",
+       "UniqueName":"T6_FIBER_LEVEL2@2"
+    },
+    {
+       "LocalizationNameVariable":"@ITEMS_T7_FIBER_LEVEL2",
+       "LocalizedNames":{
+          "EN-US":"Rare Sunflax",
+          "PT-BR":"Linhossol Raro"
+       },
+       "Index":"785",
+       "UniqueName":"T7_FIBER_LEVEL2@2"
+    },
+    {
+       "LocalizationNameVariable":"@ITEMS_T8_FIBER_LEVEL2",
+       "LocalizedNames":{
+          "EN-US":"Rare Ghost Hemp",
+          "PT-BR":"Cânhamo-fantasma Raro"
+       },
+       "Index":"786",
+       "UniqueName":"T8_FIBER_LEVEL2@2"
+    },
+    {
+       "LocalizationNameVariable":"@ITEMS_T4_FIBER_LEVEL3",
+       "LocalizedNames":{
+          "EN-US":"Exceptional Hemp",
+          "PT-BR":"Cânhamo Excepcional"
+       },
+       "Index":"787",
+       "UniqueName":"T4_FIBER_LEVEL3@3"
+    },
+    {
+       "LocalizationNameVariable":"@ITEMS_T5_FIBER_LEVEL3",
+       "LocalizedNames":{
+          "EN-US":"Exceptional Skyflower",
+          "PT-BR":"Verbena Excepcional"
+       },
+       "Index":"788",
+       "UniqueName":"T5_FIBER_LEVEL3@3"
+    },
+    {
+       "LocalizationNameVariable":"@ITEMS_T6_FIBER_LEVEL3",
+       "LocalizedNames":{
+          "EN-US":"Exceptional Redleaf Cotton",
+          "PT-BR":"Algodão-vermelho Excepcional"
+       },
+       "Index":"789",
+       "UniqueName":"T6_FIBER_LEVEL3@3"
+    },
+    {
+       "LocalizationNameVariable":"@ITEMS_T7_FIBER_LEVEL3",
+       "LocalizedNames":{
+          "EN-US":"Exceptional Sunflax",
+          "PT-BR":"Linhossol Excepcional"
+       },
+       "Index":"790",
+       "UniqueName":"T7_FIBER_LEVEL3@3"
+    },
+    {
+       "LocalizationNameVariable":"@ITEMS_T8_FIBER_LEVEL3",
+       "LocalizedNames":{
+          "EN-US":"Exceptional Ghost Hemp",
+          "PT-BR":"Cânhamo-fantasma Excepcional"
+       },
+       "Index":"791",
+       "UniqueName":"T8_FIBER_LEVEL3@3"
+    },
+    {
+       "LocalizationNameVariable":"@ITEMS_T2_PLANKS",
+       "LocalizedNames":{
+          "EN-US":"Birch Planks",
+          "PT-BR":"Tábuas de Bétula"
+       },
+       "Index":"792",
+       "UniqueName":"T2_PLANKS"
+    },
+    {
+       "LocalizationNameVariable":"@ITEMS_T3_PLANKS",
+       "LocalizedNames":{
+          "EN-US":"Chestnut Planks",
+          "PT-BR":"Tábuas de Castanheira"
+       },
+       "Index":"793",
+       "UniqueName":"T3_PLANKS"
+    },
+    {
+       "LocalizationNameVariable":"@ITEMS_T4_PLANKS",
+       "LocalizedNames":{
+          "EN-US":"Pine Planks",
+          "PT-BR":"Tábuas de Pinho"
+       },
+       "Index":"794",
+       "UniqueName":"T4_PLANKS"
+    },
+    {
+       "LocalizationNameVariable":"@ITEMS_T5_PLANKS",
+       "LocalizedNames":{
+          "EN-US":"Cedar Planks",
+          "PT-BR":"Tábuas de Cedro"
+       },
+       "Index":"795",
+       "UniqueName":"T5_PLANKS"
+    },
+    {
+       "LocalizationNameVariable":"@ITEMS_T6_PLANKS",
+       "LocalizedNames":{
+          "EN-US":"Bloodoak Planks",
+          "PT-BR":"Tábuas de Carvalho-sangue"
+       },
+       "Index":"796",
+       "UniqueName":"T6_PLANKS"
+    },
+    {
+       "LocalizationNameVariable":"@ITEMS_T7_PLANKS",
+       "LocalizedNames":{
+          "EN-US":"Ashenbark Planks",
+          "PT-BR":"Tábuas de Freixo"
+       },
+       "Index":"797",
+       "UniqueName":"T7_PLANKS"
+    },
+    {
+       "LocalizationNameVariable":"@ITEMS_T8_PLANKS",
+       "LocalizedNames":{
+          "EN-US":"Whitewood Planks",
+          "PT-BR":"Tábuas de Pau-branco"
+       },
+       "Index":"798",
+       "UniqueName":"T8_PLANKS"
+    },
+    {
+       "LocalizationNameVariable":"@ITEMS_T4_PLANKS_LEVEL1",
+       "LocalizedNames":{
+          "EN-US":"Uncommon Pine Planks",
+          "PT-BR":"Tábuas de Pinho Incomuns"
+       },
+       "Index":"799",
+       "UniqueName":"T4_PLANKS_LEVEL1@1"
+    },
+    {
+       "LocalizationNameVariable":"@ITEMS_T5_PLANKS_LEVEL1",
+       "LocalizedNames":{
+          "EN-US":"Uncommon Cedar Planks",
+          "PT-BR":"Tábuas de Cedro Incomuns"
+       },
+       "Index":"800",
+       "UniqueName":"T5_PLANKS_LEVEL1@1"
+    },
+    {
+       "LocalizationNameVariable":"@ITEMS_T6_PLANKS_LEVEL1",
+       "LocalizedNames":{
+          "EN-US":"Uncommon Bloodoak Planks",
+          "PT-BR":"Tábuas de Carvalho-sangue Incomuns"
+       },
+       "Index":"801",
+       "UniqueName":"T6_PLANKS_LEVEL1@1"
+    },
+    {
+       "LocalizationNameVariable":"@ITEMS_T7_PLANKS_LEVEL1",
+       "LocalizedNames":{
+          "EN-US":"Uncommon Ashenbark Planks",
+          "PT-BR":"Tábuas de Freixo Incomuns"
+       },
+       "Index":"802",
+       "UniqueName":"T7_PLANKS_LEVEL1@1"
+    },
+    {
+       "LocalizationNameVariable":"@ITEMS_T8_PLANKS_LEVEL1",
+       "LocalizedNames":{
+          "EN-US":"Uncommon Whitewood Planks",
+          "PT-BR":"Tábuas de Pau-branco Incomuns"
+       },
+       "Index":"803",
+       "UniqueName":"T8_PLANKS_LEVEL1@1"
+    },
+    {
+       "LocalizationNameVariable":"@ITEMS_T4_PLANKS_LEVEL2",
+       "LocalizedNames":{
+          "EN-US":"Rare Pine Planks",
+          "PT-BR":"Tábuas de Pinho Raras"
+       },
+       "Index":"804",
+       "UniqueName":"T4_PLANKS_LEVEL2@2"
+    },
+    {
+       "LocalizationNameVariable":"@ITEMS_T5_PLANKS_LEVEL2",
+       "LocalizedNames":{
+          "EN-US":"Rare Cedar Planks",
+          "PT-BR":"Tábuas de Cedro Raras"
+       },
+       "Index":"805",
+       "UniqueName":"T5_PLANKS_LEVEL2@2"
+    },
+    {
+       "LocalizationNameVariable":"@ITEMS_T6_PLANKS_LEVEL2",
+       "LocalizedNames":{
+          "EN-US":"Rare Bloodoak Planks",
+          "PT-BR":"Tábuas de Carvalho-sangue Raras"
+       },
+       "Index":"806",
+       "UniqueName":"T6_PLANKS_LEVEL2@2"
+    },
+    {
+       "LocalizationNameVariable":"@ITEMS_T7_PLANKS_LEVEL2",
+       "LocalizedNames":{
+          "EN-US":"Rare Ashenbark Planks",
+          "PT-BR":"Tábuas de Freixo Raras"
+       },
+       "Index":"807",
+       "UniqueName":"T7_PLANKS_LEVEL2@2"
+    },
+    {
+       "LocalizationNameVariable":"@ITEMS_T8_PLANKS_LEVEL2",
+       "LocalizedNames":{
+          "EN-US":"Rare Whitewood Planks",
+          "PT-BR":"Tábuas de Pau-branco Raras"
+       },
+       "Index":"808",
+       "UniqueName":"T8_PLANKS_LEVEL2@2"
+    },
+    {
+       "LocalizationNameVariable":"@ITEMS_T4_PLANKS_LEVEL3",
+       "LocalizedNames":{
+          "EN-US":"Exceptional Pine Planks",
+          "PT-BR":"Tábuas de Pinho Excepcionais"
+       },
+       "Index":"809",
+       "UniqueName":"T4_PLANKS_LEVEL3@3"
+    },
+    {
+       "LocalizationNameVariable":"@ITEMS_T5_PLANKS_LEVEL3",
+       "LocalizedNames":{
+          "EN-US":"Exceptional Cedar Planks",
+          "PT-BR":"Tábuas de Cedro Excepcionais"
+       },
+       "Index":"810",
+       "UniqueName":"T5_PLANKS_LEVEL3@3"
+    },
+    {
+       "LocalizationNameVariable":"@ITEMS_T6_PLANKS_LEVEL3",
+       "LocalizedNames":{
+          "EN-US":"Exceptional Bloodoak Planks",
+          "PT-BR":"Tábuas de Carvalho-sangue Excepcionais"
+       },
+       "Index":"811",
+       "UniqueName":"T6_PLANKS_LEVEL3@3"
+    },
+    {
+       "LocalizationNameVariable":"@ITEMS_T7_PLANKS_LEVEL3",
+       "LocalizedNames":{
+          "EN-US":"Exceptional Ashenbark Planks",
+          "PT-BR":"Tábuas de Freixo Excepcionais"
+       },
+       "Index":"812",
+       "UniqueName":"T7_PLANKS_LEVEL3@3"
+    },
+    {
+       "LocalizationNameVariable":"@ITEMS_T8_PLANKS_LEVEL3",
+       "LocalizedNames":{
+          "EN-US":"Exceptional Whitewood Planks",
+          "PT-BR":"Tábuas de Pau-branco Excepcionais"
+       },
+       "Index":"813",
+       "UniqueName":"T8_PLANKS_LEVEL3@3"
+    },
+    {
+       "LocalizationNameVariable":"@ITEMS_T2_STONEBLOCK",
+       "LocalizedNames":{
+          "EN-US":"Limestone Block",
+          "PT-BR":"Bloco de Calcário"
+       },
+       "Index":"814",
+       "UniqueName":"T2_STONEBLOCK"
+    },
+    {
+       "LocalizationNameVariable":"@ITEMS_T3_STONEBLOCK",
+       "LocalizedNames":{
+          "EN-US":"Sandstone Block",
+          "PT-BR":"Bloco de Arenito"
+       },
+       "Index":"815",
+       "UniqueName":"T3_STONEBLOCK"
+    },
+    {
+       "LocalizationNameVariable":"@ITEMS_T4_STONEBLOCK",
+       "LocalizedNames":{
+          "EN-US":"Travertine Block",
+          "PT-BR":"Bloco de Travertino"
+       },
+       "Index":"816",
+       "UniqueName":"T4_STONEBLOCK"
+    },
+    {
+       "LocalizationNameVariable":"@ITEMS_T5_STONEBLOCK",
+       "LocalizedNames":{
+          "EN-US":"Granite Block",
+          "PT-BR":"Bloco de Granito"
+       },
+       "Index":"817",
+       "UniqueName":"T5_STONEBLOCK"
+    },
+    {
+       "LocalizationNameVariable":"@ITEMS_T6_STONEBLOCK",
+       "LocalizedNames":{
+          "EN-US":"Slate Block",
+          "PT-BR":"Bloco de Ardósia"
+       },
+       "Index":"818",
+       "UniqueName":"T6_STONEBLOCK"
+    },
+    {
+       "LocalizationNameVariable":"@ITEMS_T7_STONEBLOCK",
+       "LocalizedNames":{
+          "EN-US":"Basalt Block",
+          "PT-BR":"Bloco de Basalto"
+       },
+       "Index":"819",
+       "UniqueName":"T7_STONEBLOCK"
+    },
+    {
+       "LocalizationNameVariable":"@ITEMS_T8_STONEBLOCK",
+       "LocalizedNames":{
+          "EN-US":"Marble Block",
+          "PT-BR":"Bloco de Mármore"
+       },
+       "Index":"820",
+       "UniqueName":"T8_STONEBLOCK"
+    },
+    {
+       "LocalizationNameVariable":"@ITEMS_T2_METALBAR",
+       "LocalizedNames":{
+          "EN-US":"Copper Bar",
+          "PT-BR":"Barra de Cobre"
+       },
+       "Index":"821",
+       "UniqueName":"T2_METALBAR"
+    },
+    {
+       "LocalizationNameVariable":"@ITEMS_T3_METALBAR",
+       "LocalizedNames":{
+          "EN-US":"Bronze Bar",
+          "PT-BR":"Barra de Bronze"
+       },
+       "Index":"822",
+       "UniqueName":"T3_METALBAR"
+    },
+    {
+       "LocalizationNameVariable":"@ITEMS_T4_METALBAR",
+       "LocalizedNames":{
+          "EN-US":"Steel Bar",
+          "PT-BR":"Barra de Aço"
+       },
+       "Index":"823",
+       "UniqueName":"T4_METALBAR"
+    },
+    {
+       "LocalizationNameVariable":"@ITEMS_T5_METALBAR",
+       "LocalizedNames":{
+          "EN-US":"Titanium Steel Bar",
+          "PT-BR":"Barra de Aço Titânio"
+       },
+       "Index":"824",
+       "UniqueName":"T5_METALBAR"
+    },
+    {
+       "LocalizationNameVariable":"@ITEMS_T6_METALBAR",
+       "LocalizedNames":{
+          "EN-US":"Runite Steel Bar",
+          "PT-BR":"Barra de Aço Runita"
+       },
+       "Index":"825",
+       "UniqueName":"T6_METALBAR"
+    },
+    {
+       "LocalizationNameVariable":"@ITEMS_T7_METALBAR",
+       "LocalizedNames":{
+          "EN-US":"Meteorite Steel Bar",
+          "PT-BR":"Barra de Aço Meteorito"
+       },
+       "Index":"826",
+       "UniqueName":"T7_METALBAR"
+    },
+    {
+       "LocalizationNameVariable":"@ITEMS_T8_METALBAR",
+       "LocalizedNames":{
+          "EN-US":"Adamantium Steel Bar",
+          "PT-BR":"Barra de Aço Adamântio"
+       },
+       "Index":"827",
+       "UniqueName":"T8_METALBAR"
+    },
+    {
+       "LocalizationNameVariable":"@ITEMS_T4_METALBAR_LEVEL1",
+       "LocalizedNames":{
+          "EN-US":"Uncommon Steel Bar",
+          "PT-BR":"Barra de Aço Incomum"
+       },
+       "Index":"828",
+       "UniqueName":"T4_METALBAR_LEVEL1@1"
+    },
+    {
+       "LocalizationNameVariable":"@ITEMS_T5_METALBAR_LEVEL1",
+       "LocalizedNames":{
+          "EN-US":"Uncommon Titanium Steel Bar",
+          "PT-BR":"Barra de Aço Titânio Incomum"
+       },
+       "Index":"829",
+       "UniqueName":"T5_METALBAR_LEVEL1@1"
+    },
+    {
+       "LocalizationNameVariable":"@ITEMS_T6_METALBAR_LEVEL1",
+       "LocalizedNames":{
+          "EN-US":"Uncommon Runite Steel Bar",
+          "PT-BR":"Barra de Aço Runita Incomum"
+       },
+       "Index":"830",
+       "UniqueName":"T6_METALBAR_LEVEL1@1"
+    },
+    {
+       "LocalizationNameVariable":"@ITEMS_T7_METALBAR_LEVEL1",
+       "LocalizedNames":{
+          "EN-US":"Uncommon Meteorite Steel Bar",
+          "PT-BR":"Barra de Aço Meteorito Incomum"
+       },
+       "Index":"831",
+       "UniqueName":"T7_METALBAR_LEVEL1@1"
+    },
+    {
+       "LocalizationNameVariable":"@ITEMS_T8_METALBAR_LEVEL1",
+       "LocalizedNames":{
+          "EN-US":"Uncommon Adamantium Steel Bar",
+          "PT-BR":"Barra de Aço Adamântio Incomum"
+       },
+       "Index":"832",
+       "UniqueName":"T8_METALBAR_LEVEL1@1"
+    },
+    {
+       "LocalizationNameVariable":"@ITEMS_T4_METALBAR_LEVEL2",
+       "LocalizedNames":{
+          "EN-US":"Rare Steel Bar",
+          "PT-BR":"Barra de Aço Rara"
+       },
+       "Index":"833",
+       "UniqueName":"T4_METALBAR_LEVEL2@2"
+    },
+    {
+       "LocalizationNameVariable":"@ITEMS_T5_METALBAR_LEVEL2",
+       "LocalizedNames":{
+          "EN-US":"Rare Titanium Steel Bar",
+          "PT-BR":"Barra de Aço Titânio Rara"
+       },
+       "Index":"834",
+       "UniqueName":"T5_METALBAR_LEVEL2@2"
+    },
+    {
+       "LocalizationNameVariable":"@ITEMS_T6_METALBAR_LEVEL2",
+       "LocalizedNames":{
+          "EN-US":"Rare Runite Steel Bar",
+          "PT-BR":"Barra de Aço Runita Rara"
+       },
+       "Index":"835",
+       "UniqueName":"T6_METALBAR_LEVEL2@2"
+    },
+    {
+       "LocalizationNameVariable":"@ITEMS_T7_METALBAR_LEVEL2",
+       "LocalizedNames":{
+          "EN-US":"Rare Meteorite Steel Bar",
+          "PT-BR":"Barra de Aço Meteorito Rara"
+       },
+       "Index":"836",
+       "UniqueName":"T7_METALBAR_LEVEL2@2"
+    },
+    {
+       "LocalizationNameVariable":"@ITEMS_T8_METALBAR_LEVEL2",
+       "LocalizedNames":{
+          "EN-US":"Rare Adamantium Steel Bar",
+          "PT-BR":"Barra de Aço Adamântio Rara"
+       },
+       "Index":"837",
+       "UniqueName":"T8_METALBAR_LEVEL2@2"
+    },
+    {
+       "LocalizationNameVariable":"@ITEMS_T4_METALBAR_LEVEL3",
+       "LocalizedNames":{
+          "EN-US":"Exceptional Steel Bar",
+          "PT-BR":"Barra de Aço Excepcional"
+       },
+       "Index":"838",
+       "UniqueName":"T4_METALBAR_LEVEL3@3"
+    },
+    {
+       "LocalizationNameVariable":"@ITEMS_T5_METALBAR_LEVEL3",
+       "LocalizedNames":{
+          "EN-US":"Exceptional Titanium Steel Bar",
+          "PT-BR":"Barra de Aço Titânio Excepcional"
+       },
+       "Index":"839",
+       "UniqueName":"T5_METALBAR_LEVEL3@3"
+    },
+    {
+       "LocalizationNameVariable":"@ITEMS_T6_METALBAR_LEVEL3",
+       "LocalizedNames":{
+          "EN-US":"Exceptional Runite Steel Bar",
+          "PT-BR":"Barra de Aço Runita Excepcional"
+       },
+       "Index":"840",
+       "UniqueName":"T6_METALBAR_LEVEL3@3"
+    },
+    {
+       "LocalizationNameVariable":"@ITEMS_T7_METALBAR_LEVEL3",
+       "LocalizedNames":{
+          "EN-US":"Exceptional Meteorite Steel Bar",
+          "PT-BR":"Barra de Aço Meteorito Excepcional"
+       },
+       "Index":"841",
+       "UniqueName":"T7_METALBAR_LEVEL3@3"
+    },
+    {
+       "LocalizationNameVariable":"@ITEMS_T8_METALBAR_LEVEL3",
+       "LocalizedNames":{
+          "EN-US":"Exceptional Adamantium Steel Bar",
+          "PT-BR":"Barra de Aço Adamântio Excepcional"
+       },
+       "Index":"842",
+       "UniqueName":"T8_METALBAR_LEVEL3@3"
+    },
+    {
+       "LocalizationNameVariable":"@ITEMS_T2_LEATHER",
+       "LocalizedNames":{
+          "EN-US":"Stiff Leather",
+          "PT-BR":"Couro Esticado"
+       },
+       "Index":"843",
+       "UniqueName":"T2_LEATHER"
+    },
+    {
+       "LocalizationNameVariable":"@ITEMS_T3_LEATHER",
+       "LocalizedNames":{
+          "EN-US":"Thick Leather",
+          "PT-BR":"Couro Grosso"
+       },
+       "Index":"844",
+       "UniqueName":"T3_LEATHER"
+    },
+    {
+       "LocalizationNameVariable":"@ITEMS_T4_LEATHER",
+       "LocalizedNames":{
+          "EN-US":"Worked Leather",
+          "PT-BR":"Couro Trabalhado"
+       },
+       "Index":"845",
+       "UniqueName":"T4_LEATHER"
+    },
+    {
+       "LocalizationNameVariable":"@ITEMS_T5_LEATHER",
+       "LocalizedNames":{
+          "EN-US":"Cured Leather",
+          "PT-BR":"Couro Curtido"
+       },
+       "Index":"846",
+       "UniqueName":"T5_LEATHER"
+    },
+    {
+       "LocalizationNameVariable":"@ITEMS_T6_LEATHER",
+       "LocalizedNames":{
+          "EN-US":"Hardened Leather",
+          "PT-BR":"Couro Endurecido"
+       },
+       "Index":"847",
+       "UniqueName":"T6_LEATHER"
+    },
+    {
+       "LocalizationNameVariable":"@ITEMS_T7_LEATHER",
+       "LocalizedNames":{
+          "EN-US":"Reinforced Leather",
+          "PT-BR":"Couro Reforçado"
+       },
+       "Index":"848",
+       "UniqueName":"T7_LEATHER"
+    },
+    {
+       "LocalizationNameVariable":"@ITEMS_T8_LEATHER",
+       "LocalizedNames":{
+          "EN-US":"Fortified Leather",
+          "PT-BR":"Couro Fortificado"
+       },
+       "Index":"849",
+       "UniqueName":"T8_LEATHER"
+    },
+    {
+       "LocalizationNameVariable":"@ITEMS_T4_LEATHER_LEVEL1",
+       "LocalizedNames":{
+          "EN-US":"Uncommon Worked Leather",
+          "PT-BR":"Couro Trabalhado Incomum"
+       },
+       "Index":"850",
+       "UniqueName":"T4_LEATHER_LEVEL1@1"
+    },
+    {
+       "LocalizationNameVariable":"@ITEMS_T5_LEATHER_LEVEL1",
+       "LocalizedNames":{
+          "EN-US":"Uncommon Cured Leather",
+          "PT-BR":"Couro Curtido Incomum"
+       },
+       "Index":"851",
+       "UniqueName":"T5_LEATHER_LEVEL1@1"
+    },
+    {
+       "LocalizationNameVariable":"@ITEMS_T6_LEATHER_LEVEL1",
+       "LocalizedNames":{
+          "EN-US":"Uncommon Hardened Leather",
+          "PT-BR":"Couro Endurecido Incomum"
+       },
+       "Index":"852",
+       "UniqueName":"T6_LEATHER_LEVEL1@1"
+    },
+    {
+       "LocalizationNameVariable":"@ITEMS_T7_LEATHER_LEVEL1",
+       "LocalizedNames":{
+          "EN-US":"Uncommon Reinforced Leather",
+          "PT-BR":"Couro Reforçado Incomum"
+       },
+       "Index":"853",
+       "UniqueName":"T7_LEATHER_LEVEL1@1"
+    },
+    {
+       "LocalizationNameVariable":"@ITEMS_T8_LEATHER_LEVEL1",
+       "LocalizedNames":{
+          "EN-US":"Uncommon Fortified Leather",
+          "PT-BR":"Couro Fortificado Incomum"
+       },
+       "Index":"854",
+       "UniqueName":"T8_LEATHER_LEVEL1@1"
+    },
+    {
+       "LocalizationNameVariable":"@ITEMS_T4_LEATHER_LEVEL2",
+       "LocalizedNames":{
+          "EN-US":"Rare Worked Leather",
+          "PT-BR":"Couro Trabalhado Raro"
+       },
+       "Index":"855",
+       "UniqueName":"T4_LEATHER_LEVEL2@2"
+    },
+    {
+       "LocalizationNameVariable":"@ITEMS_T5_LEATHER_LEVEL2",
+       "LocalizedNames":{
+          "EN-US":"Rare Cured Leather",
+          "PT-BR":"Couro Curtido Raro"
+       },
+       "Index":"856",
+       "UniqueName":"T5_LEATHER_LEVEL2@2"
+    },
+    {
+       "LocalizationNameVariable":"@ITEMS_T6_LEATHER_LEVEL2",
+       "LocalizedNames":{
+          "EN-US":"Rare Hardened Leather",
+          "PT-BR":"Couro Endurecido Raro"
+       },
+       "Index":"857",
+       "UniqueName":"T6_LEATHER_LEVEL2@2"
+    },
+    {
+       "LocalizationNameVariable":"@ITEMS_T7_LEATHER_LEVEL2",
+       "LocalizedNames":{
+          "EN-US":"Rare Reinforced Leather",
+          "PT-BR":"Couro Reforçado Raro"
+       },
+       "Index":"858",
+       "UniqueName":"T7_LEATHER_LEVEL2@2"
+    },
+    {
+       "LocalizationNameVariable":"@ITEMS_T8_LEATHER_LEVEL2",
+       "LocalizedNames":{
+          "EN-US":"Rare Fortified Leather",
+          "PT-BR":"Couro Fortificado Raro"
+       },
+       "Index":"859",
+       "UniqueName":"T8_LEATHER_LEVEL2@2"
+    },
+    {
+       "LocalizationNameVariable":"@ITEMS_T4_LEATHER_LEVEL3",
+       "LocalizedNames":{
+          "EN-US":"Exceptional Worked Leather",
+          "PT-BR":"Couro Trabalhado Excepcional"
+       },
+       "Index":"860",
+       "UniqueName":"T4_LEATHER_LEVEL3@3"
+    },
+    {
+       "LocalizationNameVariable":"@ITEMS_T5_LEATHER_LEVEL3",
+       "LocalizedNames":{
+          "EN-US":"Exceptional Cured Leather",
+          "PT-BR":"Couro Curtido Excepcional"
+       },
+       "Index":"861",
+       "UniqueName":"T5_LEATHER_LEVEL3@3"
+    },
+    {
+       "LocalizationNameVariable":"@ITEMS_T6_LEATHER_LEVEL3",
+       "LocalizedNames":{
+          "EN-US":"Exceptional Hardened Leather",
+          "PT-BR":"Couro Endurecido Excepcional"
+       },
+       "Index":"862",
+       "UniqueName":"T6_LEATHER_LEVEL3@3"
+    },
+    {
+       "LocalizationNameVariable":"@ITEMS_T7_LEATHER_LEVEL3",
+       "LocalizedNames":{
+          "EN-US":"Exceptional Reinforced Leather",
+          "PT-BR":"Couro Reforçado Excepcional"
+       },
+       "Index":"863",
+       "UniqueName":"T7_LEATHER_LEVEL3@3"
+    },
+    {
+       "LocalizationNameVariable":"@ITEMS_T8_LEATHER_LEVEL3",
+       "LocalizedNames":{
+          "EN-US":"Exceptional Fortified Leather",
+          "PT-BR":"Couro Fortificado Excepcional"
+       },
+       "Index":"864",
+       "UniqueName":"T8_LEATHER_LEVEL3@3"
+    },
+    {
+       "LocalizationNameVariable":"@ITEMS_T2_CLOTH",
+       "LocalizedNames":{
+          "EN-US":"Simple Cloth",
+          "PT-BR":"Tecido Simples"
+       },
+       "Index":"865",
+       "UniqueName":"T2_CLOTH"
+    },
+    {
+       "LocalizationNameVariable":"@ITEMS_T3_CLOTH",
+       "LocalizedNames":{
+          "EN-US":"Neat Cloth",
+          "PT-BR":"Tecido Limpo"
+       },
+       "Index":"866",
+       "UniqueName":"T3_CLOTH"
+    },
+    {
+       "LocalizationNameVariable":"@ITEMS_T4_CLOTH",
+       "LocalizedNames":{
+          "EN-US":"Fine Cloth",
+          "PT-BR":"Tecido Fino"
+       },
+       "Index":"867",
+       "UniqueName":"T4_CLOTH"
+    },
+    {
+       "LocalizationNameVariable":"@ITEMS_T5_CLOTH",
+       "LocalizedNames":{
+          "EN-US":"Ornate Cloth",
+          "PT-BR":"Tecido Ornado"
+       },
+       "Index":"868",
+       "UniqueName":"T5_CLOTH"
+    },
+    {
+       "LocalizationNameVariable":"@ITEMS_T6_CLOTH",
+       "LocalizedNames":{
+          "EN-US":"Lavish Cloth",
+          "PT-BR":"Tecido Rico"
+       },
+       "Index":"869",
+       "UniqueName":"T6_CLOTH"
+    },
+    {
+       "LocalizationNameVariable":"@ITEMS_T7_CLOTH",
+       "LocalizedNames":{
+          "EN-US":"Opulent Cloth",
+          "PT-BR":"Tecido Opulento"
+       },
+       "Index":"870",
+       "UniqueName":"T7_CLOTH"
+    },
+    {
+       "LocalizationNameVariable":"@ITEMS_T8_CLOTH",
+       "LocalizedNames":{
+          "EN-US":"Baroque Cloth",
+          "PT-BR":"Tecido Barroco"
+       },
+       "Index":"871",
+       "UniqueName":"T8_CLOTH"
+    },
+    {
+       "LocalizationNameVariable":"@ITEMS_T4_CLOTH_LEVEL1",
+       "LocalizedNames":{
+          "EN-US":"Uncommon Fine Cloth",
+          "PT-BR":"Tecido Fino Incomum"
+       },
+       "Index":"872",
+       "UniqueName":"T4_CLOTH_LEVEL1@1"
+    },
+    {
+       "LocalizationNameVariable":"@ITEMS_T5_CLOTH_LEVEL1",
+       "LocalizedNames":{
+          "EN-US":"Uncommon Ornate Cloth",
+          "PT-BR":"Tecido Ornado Incomum"
+       },
+       "Index":"873",
+       "UniqueName":"T5_CLOTH_LEVEL1@1"
+    },
+    {
+       "LocalizationNameVariable":"@ITEMS_T6_CLOTH_LEVEL1",
+       "LocalizedNames":{
+          "EN-US":"Uncommon Lavish Cloth",
+          "PT-BR":"Tecido Rico Incomum"
+       },
+       "Index":"874",
+       "UniqueName":"T6_CLOTH_LEVEL1@1"
+    },
+    {
+       "LocalizationNameVariable":"@ITEMS_T7_CLOTH_LEVEL1",
+       "LocalizedNames":{
+          "EN-US":"Uncommon Opulent Cloth",
+          "PT-BR":"Tecido Opulento Incomum"
+       },
+       "Index":"875",
+       "UniqueName":"T7_CLOTH_LEVEL1@1"
+    },
+    {
+       "LocalizationNameVariable":"@ITEMS_T8_CLOTH_LEVEL1",
+       "LocalizedNames":{
+          "EN-US":"Uncommon Baroque Cloth",
+          "PT-BR":"Tecido Barroco Incomum"
+       },
+       "Index":"876",
+       "UniqueName":"T8_CLOTH_LEVEL1@1"
+    },
+    {
+       "LocalizationNameVariable":"@ITEMS_T4_CLOTH_LEVEL2",
+       "LocalizedNames":{
+          "EN-US":"Rare Fine Cloth",
+          "PT-BR":"Tecido Fino Raro"
+       },
+       "Index":"877",
+       "UniqueName":"T4_CLOTH_LEVEL2@2"
+    },
+    {
+       "LocalizationNameVariable":"@ITEMS_T5_CLOTH_LEVEL2",
+       "LocalizedNames":{
+          "EN-US":"Rare Ornate Cloth",
+          "PT-BR":"Tecido Ornado Raro"
+       },
+       "Index":"878",
+       "UniqueName":"T5_CLOTH_LEVEL2@2"
+    },
+    {
+       "LocalizationNameVariable":"@ITEMS_T6_CLOTH_LEVEL2",
+       "LocalizedNames":{
+          "EN-US":"Rare Lavish Cloth",
+          "PT-BR":"Tecido Rico Raro"
+       },
+       "Index":"879",
+       "UniqueName":"T6_CLOTH_LEVEL2@2"
+    },
+    {
+       "LocalizationNameVariable":"@ITEMS_T7_CLOTH_LEVEL2",
+       "LocalizedNames":{
+          "EN-US":"Rare Opulent Cloth",
+          "PT-BR":"Tecido Opulento Raro"
+       },
+       "Index":"880",
+       "UniqueName":"T7_CLOTH_LEVEL2@2"
+    },
+    {
+       "LocalizationNameVariable":"@ITEMS_T8_CLOTH_LEVEL2",
+       "LocalizedNames":{
+          "EN-US":"Rare Baroque Cloth",
+          "PT-BR":"Tecido Barroco Raro"
+       },
+       "Index":"881",
+       "UniqueName":"T8_CLOTH_LEVEL2@2"
+    },
+    {
+       "LocalizationNameVariable":"@ITEMS_T4_CLOTH_LEVEL3",
+       "LocalizedNames":{
+          "EN-US":"Exceptional Fine Cloth",
+          "PT-BR":"Tecido Fino Excepcional"
+       },
+       "Index":"882",
+       "UniqueName":"T4_CLOTH_LEVEL3@3"
+    },
+    {
+       "LocalizationNameVariable":"@ITEMS_T5_CLOTH_LEVEL3",
+       "LocalizedNames":{
+          "EN-US":"Exceptional Ornate Cloth",
+          "PT-BR":"Tecido Ornado Excepcional"
+       },
+       "Index":"883",
+       "UniqueName":"T5_CLOTH_LEVEL3@3"
+    },
+    {
+       "LocalizationNameVariable":"@ITEMS_T6_CLOTH_LEVEL3",
+       "LocalizedNames":{
+          "EN-US":"Exceptional Lavish Cloth",
+          "PT-BR":"Tecido Rico Excepcional"
+       },
+       "Index":"884",
+       "UniqueName":"T6_CLOTH_LEVEL3@3"
+    },
+    {
+       "LocalizationNameVariable":"@ITEMS_T7_CLOTH_LEVEL3",
+       "LocalizedNames":{
+          "EN-US":"Exceptional Opulent Cloth",
+          "PT-BR":"Tecido Opulento Excepcional"
+       },
+       "Index":"885",
+       "UniqueName":"T7_CLOTH_LEVEL3@3"
+    },
+    {
+       "LocalizationNameVariable":"@ITEMS_T8_CLOTH_LEVEL3",
+       "LocalizedNames":{
+          "EN-US":"Exceptional Baroque Cloth",
+          "PT-BR":"Tecido Barroco Excepcional"
+       },
+       "Index":"886",
+       "UniqueName":"T8_CLOTH_LEVEL3@3"
+    }
+ ]
