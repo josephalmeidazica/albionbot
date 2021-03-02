@@ -9,7 +9,6 @@ import TableHead from '@material-ui/core/TableHead';
 import TableRow from '@material-ui/core/TableRow';
 import Autocomplete from '@material-ui/lab/Autocomplete';
 const itensJson = require('../json/itens.json');
-const peixeJson = require('../json/peixe.json');
 const itens = Array.from(itensJson);
 
 
