@@ -1,0 +1,7 @@
+[
+    {"nome": "Madeira", "value": "WOOD"},
+    {"nome": "Pedra", "value": "ROCK"},
+    {"nome": "Minério", "value": "ORE"},
+    {"nome": "Couro", "value": "HIDE"},
+    {"nome": "Fibra", "value": "FIBER"}
+  ]

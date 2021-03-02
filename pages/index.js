@@ -1,12 +1,13 @@
 import React from 'react';
-import App from './App';
+import App from '../modules/App';
+import Calculadora from '../modules/Calculadora'
 import Head from 'next/head'
 import styles from '../styles/Home.module.css'
 export default function Home() {
   return (
     <div className={styles.container}>
       <Head>
-        <title>Create Next App</title>
+        <title>Albion Collectors Kit</title>
         <link rel="icon" href="/favicon.ico" />
       </Head>
 
@@ -21,6 +22,7 @@ export default function Home() {
 
         <div className={styles.grid}>
           <App />
+          <Calculadora />
         </div>
       </main>
 

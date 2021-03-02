@@ -1870,5 +1870,392 @@
        },
        "Index":"886",
        "UniqueName":"T8_CLOTH_LEVEL3@3"
-    }
+    },
+      {
+         "LocalizationNameVariable":"@ITEMS_T1_FISH_FRESHWATER_ALL_COMMON",
+         "LocalizedNames":{
+            "EN-US":"Common Rudd",
+            "PT-BR":"Corvina Comum"
+         },
+         "Index":"108",
+         "UniqueName":"T1_FISH_FRESHWATER_ALL_COMMON"
+      },
+      {
+         "LocalizationNameVariable":"@ITEMS_T2_FISH_FRESHWATER_ALL_COMMON",
+         "LocalizedNames":{
+            "EN-US":"Striped Carp",
+            "PT-BR":"Carpa Listrada"
+         },
+         "Index":"109",
+         "UniqueName":"T2_FISH_FRESHWATER_ALL_COMMON"
+      },
+      {
+         "LocalizationNameVariable":"@ITEMS_T3_FISH_FRESHWATER_ALL_COMMON",
+         "LocalizedNames":{
+            "EN-US":"Albion Perch",
+            "PT-BR":"Perca de Albion"
+         },
+         "Index":"110",
+         "UniqueName":"T3_FISH_FRESHWATER_ALL_COMMON"
+      },
+      {
+         "LocalizationNameVariable":"@ITEMS_T4_FISH_FRESHWATER_ALL_COMMON",
+         "LocalizedNames":{
+            "EN-US":"Bluescale Pike",
+            "PT-BR":"Pique Azul"
+         },
+         "Index":"111",
+         "UniqueName":"T4_FISH_FRESHWATER_ALL_COMMON"
+      },
+      {
+         "LocalizationNameVariable":"@ITEMS_T5_FISH_FRESHWATER_ALL_COMMON",
+         "LocalizedNames":{
+            "EN-US":"Spotted Trout",
+            "PT-BR":"Truta Pintada"
+         },
+         "Index":"112",
+         "UniqueName":"T5_FISH_FRESHWATER_ALL_COMMON"
+      },
+      {
+         "LocalizationNameVariable":"@ITEMS_T6_FISH_FRESHWATER_ALL_COMMON",
+         "LocalizedNames":{
+            "EN-US":"Brightscale Zander",
+            "PT-BR":"Sander Brilhante"
+         },
+         "Index":"113",
+         "UniqueName":"T6_FISH_FRESHWATER_ALL_COMMON"
+      },
+      {
+         "LocalizationNameVariable":"@ITEMS_T7_FISH_FRESHWATER_ALL_COMMON",
+         "LocalizedNames":{
+            "EN-US":"Danglemouth Catfish",
+            "PT-BR":"Peixe-gato Bocudo"
+         },
+         "Index":"114",
+         "UniqueName":"T7_FISH_FRESHWATER_ALL_COMMON"
+      },
+      {
+         "LocalizationNameVariable":"@ITEMS_T8_FISH_FRESHWATER_ALL_COMMON",
+         "LocalizedNames":{
+            "EN-US":"River Sturgeon",
+            "PT-BR":"Esturjão de Rio"
+         },
+         "Index":"115",
+         "UniqueName":"T8_FISH_FRESHWATER_ALL_COMMON"
+      },
+      {
+         "LocalizationNameVariable":"@ITEMS_T1_FISH_SALTWATER_ALL_COMMON",
+         "LocalizedNames":{
+            "EN-US":"Common Herring",
+            "PT-BR":"Arenque Comum"
+         },
+         "Index":"116",
+         "UniqueName":"T1_FISH_SALTWATER_ALL_COMMON"
+      },
+      {
+         "LocalizationNameVariable":"@ITEMS_T2_FISH_SALTWATER_ALL_COMMON",
+         "LocalizedNames":{
+            "EN-US":"Striped Mackerel",
+            "PT-BR":"Cavalinha Listrada"
+         },
+         "Index":"117",
+         "UniqueName":"T2_FISH_SALTWATER_ALL_COMMON"
+      },
+      {
+         "LocalizationNameVariable":"@ITEMS_T3_FISH_SALTWATER_ALL_COMMON",
+         "LocalizedNames":{
+            "EN-US":"Flatshore Plaice",
+            "PT-BR":"Solha Chata"
+         },
+         "Index":"118",
+         "UniqueName":"T3_FISH_SALTWATER_ALL_COMMON"
+      },
+      {
+         "LocalizationNameVariable":"@ITEMS_T4_FISH_SALTWATER_ALL_COMMON",
+         "LocalizedNames":{
+            "EN-US":"Bluescale Cod",
+            "PT-BR":"Bacalhau Azul"
+         },
+         "Index":"119",
+         "UniqueName":"T4_FISH_SALTWATER_ALL_COMMON"
+      },
+      {
+         "LocalizationNameVariable":"@ITEMS_T5_FISH_SALTWATER_ALL_COMMON",
+         "LocalizedNames":{
+            "EN-US":"Spotted Wolffish",
+            "PT-BR":"Peixe-lobo Pintado"
+         },
+         "Index":"120",
+         "UniqueName":"T5_FISH_SALTWATER_ALL_COMMON"
+      },
+      {
+         "LocalizationNameVariable":"@ITEMS_T6_FISH_SALTWATER_ALL_COMMON",
+         "LocalizedNames":{
+            "EN-US":"Strongfin Salmon",
+            "PT-BR":"Salmão Forte"
+         },
+         "Index":"121",
+         "UniqueName":"T6_FISH_SALTWATER_ALL_COMMON"
+      },
+      {
+         "LocalizationNameVariable":"@ITEMS_T7_FISH_SALTWATER_ALL_COMMON",
+         "LocalizedNames":{
+            "EN-US":"Bluefin Tuna",
+            "PT-BR":"Atum Azulado"
+         },
+         "Index":"122",
+         "UniqueName":"T7_FISH_SALTWATER_ALL_COMMON"
+      },
+      {
+         "LocalizationNameVariable":"@ITEMS_T8_FISH_SALTWATER_ALL_COMMON",
+         "LocalizedNames":{
+            "EN-US":"Steelscale Swordfish",
+            "PT-BR":"Peixe-espada de Aço"
+         },
+         "Index":"123",
+         "UniqueName":"T8_FISH_SALTWATER_ALL_COMMON"
+      },
+      {
+         "LocalizationNameVariable":"@ITEMS_T3_FISH_FRESHWATER_FOREST_RARE",
+         "LocalizedNames":{
+            "EN-US":"Greenriver Eel",
+            "PT-BR":"Enguia Esverdeada"
+         },
+         "Index":"124",
+         "UniqueName":"T3_FISH_FRESHWATER_FOREST_RARE"
+      },
+      {
+         "LocalizationNameVariable":"@ITEMS_T5_FISH_FRESHWATER_FOREST_RARE",
+         "LocalizedNames":{
+            "EN-US":"Redspring Eel",
+            "PT-BR":"Enguia Avermelhada"
+         },
+         "Index":"125",
+         "UniqueName":"T5_FISH_FRESHWATER_FOREST_RARE"
+      },
+      {
+         "LocalizationNameVariable":"@ITEMS_T7_FISH_FRESHWATER_FOREST_RARE",
+         "LocalizedNames":{
+            "EN-US":"Deadwater Eel",
+            "PT-BR":"Enguia de Água-podre"
+         },
+         "Index":"126",
+         "UniqueName":"T7_FISH_FRESHWATER_FOREST_RARE"
+      },
+      {
+         "LocalizationNameVariable":"@ITEMS_T3_FISH_FRESHWATER_MOUNTAIN_RARE",
+         "LocalizedNames":{
+            "EN-US":"Upland Coldeye",
+            "PT-BR":"Olhofrio das Serras"
+         },
+         "Index":"127",
+         "UniqueName":"T3_FISH_FRESHWATER_MOUNTAIN_RARE"
+      },
+      {
+         "LocalizationNameVariable":"@ITEMS_T5_FISH_FRESHWATER_MOUNTAIN_RARE",
+         "LocalizedNames":{
+            "EN-US":"Mountain Blindeye",
+            "PT-BR":"Olhocego das Montanhas"
+         },
+         "Index":"128",
+         "UniqueName":"T5_FISH_FRESHWATER_MOUNTAIN_RARE"
+      },
+      {
+         "LocalizationNameVariable":"@ITEMS_T7_FISH_FRESHWATER_MOUNTAIN_RARE",
+         "LocalizedNames":{
+            "EN-US":"Frostpeak Deadeye",
+            "PT-BR":"Olhomorto dos Picos"
+         },
+         "Index":"129",
+         "UniqueName":"T7_FISH_FRESHWATER_MOUNTAIN_RARE"
+      },
+      {
+         "LocalizationNameVariable":"@ITEMS_T3_FISH_FRESHWATER_HIGHLANDS_RARE",
+         "LocalizedNames":{
+            "EN-US":"Stonestream Lurcher",
+            "PT-BR":"Larápio de Pedregulho"
+         },
+         "Index":"130",
+         "UniqueName":"T3_FISH_FRESHWATER_HIGHLANDS_RARE"
+      },
+      {
+         "LocalizationNameVariable":"@ITEMS_T5_FISH_FRESHWATER_HIGHLANDS_RARE",
+         "LocalizedNames":{
+            "EN-US":"Rushwater Lurcher",
+            "PT-BR":"Larápio de Água corrente"
+         },
+         "Index":"131",
+         "UniqueName":"T5_FISH_FRESHWATER_HIGHLANDS_RARE"
+      },
+      {
+         "LocalizationNameVariable":"@ITEMS_T7_FISH_FRESHWATER_HIGHLANDS_RARE",
+         "LocalizedNames":{
+            "EN-US":"Thunderfall Lurcher",
+            "PT-BR":"Larápio do Trovão"
+         },
+         "Index":"132",
+         "UniqueName":"T7_FISH_FRESHWATER_HIGHLANDS_RARE"
+      },
+      {
+         "LocalizationNameVariable":"@ITEMS_T3_FISH_FRESHWATER_STEPPE_RARE",
+         "LocalizedNames":{
+            "EN-US":"Lowriver Crab",
+            "PT-BR":"Caranguejo do Rio-baixo"
+         },
+         "Index":"133",
+         "UniqueName":"T3_FISH_FRESHWATER_STEPPE_RARE"
+      },
+      {
+         "LocalizationNameVariable":"@ITEMS_T5_FISH_FRESHWATER_STEPPE_RARE",
+         "LocalizedNames":{
+            "EN-US":"Drybrook Crab",
+            "PT-BR":"Caranguejo de Riacho"
+         },
+         "Index":"134",
+         "UniqueName":"T5_FISH_FRESHWATER_STEPPE_RARE"
+      },
+      {
+         "LocalizationNameVariable":"@ITEMS_T7_FISH_FRESHWATER_STEPPE_RARE",
+         "LocalizedNames":{
+            "EN-US":"Dusthole Crab",
+            "PT-BR":"Caranguejo de Poço"
+         },
+         "Index":"135",
+         "UniqueName":"T7_FISH_FRESHWATER_STEPPE_RARE"
+      },
+      {
+         "LocalizationNameVariable":"@ITEMS_T3_FISH_FRESHWATER_SWAMP_RARE",
+         "LocalizedNames":{
+            "EN-US":"Greenmoor Clam",
+            "PT-BR":"Mexilhão Esverdeado"
+         },
+         "Index":"136",
+         "UniqueName":"T3_FISH_FRESHWATER_SWAMP_RARE"
+      },
+      {
+         "LocalizationNameVariable":"@ITEMS_T5_FISH_FRESHWATER_SWAMP_RARE",
+         "LocalizedNames":{
+            "EN-US":"Murkwater Clam",
+            "PT-BR":"Mexilhão de Águas turvas"
+         },
+         "Index":"137",
+         "UniqueName":"T5_FISH_FRESHWATER_SWAMP_RARE"
+      },
+      {
+         "LocalizationNameVariable":"@ITEMS_T7_FISH_FRESHWATER_SWAMP_RARE",
+         "LocalizedNames":{
+            "EN-US":"Blackbog Clam",
+            "PT-BR":"Mexilhão do Brejo"
+         },
+         "Index":"138",
+         "UniqueName":"T7_FISH_FRESHWATER_SWAMP_RARE"
+      },
+      {
+         "LocalizationNameVariable":"@ITEMS_T3_FISH_SALTWATER_ALL_RARE",
+         "LocalizedNames":{
+            "EN-US":"Shallowshore Squid",
+            "PT-BR":"Lula das Águas rasas"
+         },
+         "Index":"139",
+         "UniqueName":"T3_FISH_SALTWATER_ALL_RARE"
+      },
+      {
+         "LocalizationNameVariable":"@ITEMS_T5_FISH_SALTWATER_ALL_RARE",
+         "LocalizedNames":{
+            "EN-US":"Midwater Octopus",
+            "PT-BR":"Polvo das Águas médias"
+         },
+         "Index":"140",
+         "UniqueName":"T5_FISH_SALTWATER_ALL_RARE"
+      },
+      {
+         "LocalizationNameVariable":"@ITEMS_T7_FISH_SALTWATER_ALL_RARE",
+         "LocalizedNames":{
+            "EN-US":"Deepwater Kraken",
+            "PT-BR":"Kraken das Águas profundas"
+         },
+         "Index":"141",
+         "UniqueName":"T7_FISH_SALTWATER_ALL_RARE"
+      },
+      {
+         "LocalizationNameVariable":"@ITEMS_T3_FISH_FRESHWATER_AVALON_RARE",
+         "LocalizedNames":{
+            "EN-US":"Whitefog Snapper",
+            "PT-BR":"Pargo Bruma-branca"
+         },
+         "Index":"142",
+         "UniqueName":"T3_FISH_FRESHWATER_AVALON_RARE"
+      },
+      {
+         "LocalizationNameVariable":"@ITEMS_T5_FISH_FRESHWATER_AVALON_RARE",
+         "LocalizedNames":{
+            "EN-US":"Clearhaze Snapper",
+            "PT-BR":"Pargo Névoa-clara"
+         },
+         "Index":"143",
+         "UniqueName":"T5_FISH_FRESHWATER_AVALON_RARE"
+      },
+      {
+         "LocalizationNameVariable":"@ITEMS_T7_FISH_FRESHWATER_AVALON_RARE",
+         "LocalizedNames":{
+            "EN-US":"Puremist Snapper",
+            "PT-BR":"Pargo Neblina-pura"
+         },
+         "Index":"144",
+         "UniqueName":"T7_FISH_FRESHWATER_AVALON_RARE"
+      },
+      {
+         "LocalizationNameVariable":"@ITEMS_T1_SEAWEED",
+         "LocalizedNames":{
+            "EN-US":"Seaweed",
+            "PT-BR":"Alga"
+         },
+         "Index":"145",
+         "UniqueName":"T1_SEAWEED"
+      },
+      {
+         "LocalizationNameVariable":"@ITEMS_T8_FISH_SALTWATER_ALL_BOSS_SHARK",
+         "LocalizedNames":{
+            "EN-US":"Shark",
+            "PT-BR":"Tubarão"
+         },
+         "Index":"146",
+         "UniqueName":"T8_FISH_SALTWATER_ALL_BOSS_SHARK"
+      },
+      {
+         "LocalizationNameVariable":"@ITEMS_T1_FISHCHOPS",
+         "LocalizedNames":{
+            "EN-US":"Chopped Fish",
+            "PT-BR":"Peixe Picado"
+         },
+         "Index":"147",
+         "UniqueName":"T1_FISHCHOPS"
+      },
+      {
+         "LocalizationNameVariable":"@ITEMS_T1_FISHSAUCE_LEVEL1",
+         "LocalizedNames":{
+            "EN-US":"Basic Fish Sauce",
+            "PT-BR":"Molho de Peixe Básico"
+         },
+         "Index":"148",
+         "UniqueName":"T1_FISHSAUCE_LEVEL1"
+      },
+      {
+         "LocalizationNameVariable":"@ITEMS_T1_FISHSAUCE_LEVEL2",
+         "LocalizedNames":{
+            "EN-US":"Fancy Fish Sauce",
+            "PT-BR":"Molho de Peixe Extravagante"
+         },
+         "Index":"149",
+         "UniqueName":"T1_FISHSAUCE_LEVEL2"
+      },
+      {
+         "LocalizationNameVariable":"@ITEMS_T1_FISHSAUCE_LEVEL3",
+         "LocalizedNames":{
+            "EN-US":"Special Fish Sauce",
+            "PT-BR":"Molho de Peixe Especial"
+         },
+         "Index":"150",
+         "UniqueName":"T1_FISHSAUCE_LEVEL3"
+      }
  ]

@@ -1,15 +1,15 @@
 import React from 'react';
 import '../styles/App.module.css';
+import styles from '../styles/Home.module.css'
 import {TextField, Button} from '@material-ui/core';
 import Table from '@material-ui/core/Table';
 import TableBody from '@material-ui/core/TableBody';
 import TableCell from '@material-ui/core/TableCell';
-import TableContainer from '@material-ui/core/TableContainer';
 import TableHead from '@material-ui/core/TableHead';
 import TableRow from '@material-ui/core/TableRow';
-import Paper from '@material-ui/core/Paper';
 import Autocomplete from '@material-ui/lab/Autocomplete';
-const itensJson = require('./itens.json');
+const itensJson = require('../json/itens.json');
+const peixeJson = require('../json/peixe.json');
 const itens = Array.from(itensJson);
 
 
@@ -23,6 +23,27 @@ class  App extends React.Component{
     };
     this.handleChange = this.handleChange.bind(this);
   }
+
+  converteJson(){
+    let peixeArray = Array.from(peixeJson);
+    let newPeixeArray = [];
+    peixeArray.map((item) =>
+      newPeixeArray.push(
+        {
+            LocalizationNameVariable: item.LocalizationNameVariable,
+            LocalizedNames: {
+               'EN-US': item.LocalizedNames['EN-US'],
+               'PT-BR': item.LocalizedNames['PT-BR'],
+            },
+            Index: item.Index,
+            UniqueName: item.UniqueName,
+        }
+      )
+    );
+    console.log(JSON.stringify(newPeixeArray));
+  }
+
+
   getPreco(){
     fetch('https://www.albion-online-data.com/api/v2/stats/prices/'+this.state.value+'')
     .then(response => response.json())
@@ -47,14 +68,17 @@ class  App extends React.Component{
         <header className="App-header">
         <Autocomplete
           onChange={(event, value) => this.handleChange(value)}
+          style={{margin: 25}}
           id="combo-box-demo"
           options={itens}
           getOptionLabel={(option) => option.LocalizedNames['PT-BR']}
           style={{ width: 300 }}
           renderInput={(params) => <TextField {...params}  label="Itens" variant="outlined" />}
         />
-          <Button variant="contained" color="primary" onClick={() => this.getPreco()}>Conferir preço</Button>
-          <Table >
+        <div className={styles.grid}>
+          <Button variant="contained" color="primary" onClick={() => this.converteJson()}>Conferir preço</Button>
+        </div>
+        <Table >
     {(this.state.json.length > 0) &&
     <TableHead>
           <TableRow>
