@@ -75,7 +75,7 @@ class  App extends React.Component{
           renderInput={(params) => <TextField {...params}  label="Itens" variant="outlined" />}
         />
         <div className={styles.grid}>
-          <Button variant="contained" color="primary" onClick={() => this.converteJson()}>Conferir preço</Button>
+          <Button variant="contained" color="primary" onClick={() => this.getPreco()}>Conferir preço</Button>
         </div>
         <Table >
     {(this.state.json.length > 0) &&
